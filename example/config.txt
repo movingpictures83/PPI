@@ -1,0 +1,2 @@
+Prefix plugins/PPI/example/
+Plugin PPI inputfile parameters.txt outputfile PPI.txt

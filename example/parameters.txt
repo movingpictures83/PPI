@@ -1,0 +1,4 @@
+pickle	torches.pkl
+csvfile	capri_quality_masif_test.csv
+grid	07-grid/
+original	masif_test_original.txt
